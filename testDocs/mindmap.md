@@ -64,4 +64,15 @@ MindMaps are commonly used for
 
   * The map can be read E2E test cases by combining different branches and following through them.
 
-**ERD** Wrap entities into objects and show how these objects are related by those attributes or entities 
+**ERD** Wrap entities into objects and show how these objects are related by those attributes or entities.
+
+When you use mindmaps you have a more visual expression of your manual tests. Drawing on relationships between objects and branches --you can generate a string **impact analysis**
+This also means you do not have to sift through directories/folders.
+
+By creating branches and e.g. one branch object may bifurcate into another branch and then even spread out to many more other branched objects.
+
+If you had to convert ERDs for example db testing - when it's updated, min max values can be expressed richly in a mindmap vs a spreadsheet. Every object will branch off into attributes.
+
+For Use case diagram :
+
+Use case diagrams link entities to the actions they perform. e.g. if the app has a user based roll functionality or that gives user base provisioning. You can add users to different branch on the mindmap. e.g. the user has read only access. SO the branch will only pertain to that functionality for those roles. e.g. that particular user will not be able to update/delete. A great way to begin to decompose the mindmap to create a scenario! yay!
