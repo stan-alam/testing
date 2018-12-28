@@ -51,3 +51,9 @@
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17A.svg" width="80%" height="80%">
+</a>
+
+http://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment
