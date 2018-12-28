@@ -57,3 +57,14 @@
 </a>
 
 http://biblio.gdinwiddie.com/biblio/StudiesOfTestDrivenDevelopment
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17B.svg" width="80%" height="80%">
+</a>
+
+**This is a good example of a unit test**
+https://github.com/dwyl/hapi-auth-jwt2/blob/f17bac65d40b2a9154da84390b874cae4e1de192/test/test.js#L119-L135
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17C.svg" width="80%" height="80%">
+</a>
