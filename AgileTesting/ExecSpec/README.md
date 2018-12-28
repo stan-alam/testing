@@ -68,3 +68,7 @@ https://github.com/dwyl/hapi-auth-jwt2/blob/f17bac65d40b2a9154da84390b874cae4e1d
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17C.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-17D.svg" width="80%" height="80%">
+</a>
