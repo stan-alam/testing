@@ -1,5 +1,33 @@
 ## Executable Specifications
 
+**06**
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-0.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-18.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-19.svg" width="80%" height="80%">
+</a
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-20.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-21.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-22.svg" width="80%" height="80%">
+</a>
+
+**07**
+
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/07svg/AgileTest-5.svg" width="80%" height="80%">
 </a>
