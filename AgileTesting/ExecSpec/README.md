@@ -1,6 +1,6 @@
 ## Executable Specifications
 
-## O5
+### O5
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/05svg/AgileTest-24.svg" width="80%" height="80%">
 </a>
@@ -8,6 +8,7 @@
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/05svg/AgileTest-25.svg" width="80%" height="80%">
 </a>
+
 ### 06
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/AgileTesting/ExecSpec/chaps/06svg/AgileTest-0.svg" width="80%" height="80%">
