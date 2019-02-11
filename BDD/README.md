@@ -60,6 +60,58 @@
   <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/svg_files/bddcuJava-14.svg" width="80%" height="80%">
 </a>
 
+### (3) BDD with Node
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-0.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-1.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-2.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-3A.svg" width="80%" height="80%">
+</a>
+
+```js
+// Code Stub 01
+```
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-3B.svg" width="80%" height="80%">
+</a>
+
+```js
+// Code Stub 02
+```
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-4.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-5.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-6A.svg" width="80%" height="80%">
+</a>
+
+```js
+// Code Stub 03
+```
+
+<a>
+  <img src="https://github.com/stan-alam/NodeJS/blob/develop/moreNode/svg/prac_node/prac-node-6B.svg" width="80%" height="80%">
+</a>
+
+```js
+// Code Stub 04
+```
+
 ## BDD Theory
 
 <a>
