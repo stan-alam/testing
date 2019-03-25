@@ -12,6 +12,8 @@ But why you may ask? Spreadsheets are great if you're stuck in the 1990s - 2000s
 
 **Tools**
 
+    https://realtimeboard.com/mind-map-software/
+
     * Xmind
 
     * WiseMapping
