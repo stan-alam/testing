@@ -41,6 +41,24 @@
 ### BDD with Cucumber in Java
 
 <a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%201.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%202.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%203.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%204.png"" width="80%" height="80%">
+</a>
+
+**deprecated notes**
+
+<a>
   <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/svg_files/bddcuJava-0.svg" width="80%" height="80%">
 </a>
 
