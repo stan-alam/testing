@@ -56,6 +56,42 @@
   <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%204.png"" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%205.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%206A.png"" width="80%" height="80%">
+</a>
+
+```text
+Quote 5.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%206B.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%207.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%208.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%209.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2010.png"" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2011.png"" width="80%" height="80%">
+</a>
+
 **deprecated notes**
 
 <a>
