@@ -139,6 +139,19 @@ scrncap 13.A
   <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/02/bddcuJava02%20-%205.png" width="80%" height="80%">
 </a>
 
+```Gherkin
+#code block  15.A
+
+Feature:  BuyRate
+  Scenario: BuyRate one CC-01
+
+  Given: the price of CC-01 is 1.00 USD
+
+  When: I BuyRate 1 CC-01
+
+  Then: the total price should be 1.00 USD
+
+```
 **deprecated notes**
 
 <a>
