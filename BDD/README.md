@@ -108,10 +108,6 @@ Quote 5.A
   <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2015.png" width="80%" height="80%">
 </a>
 
-<a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2015.png" width="80%" height="80%">
-</a>
-
 # 02
 
 <a>
