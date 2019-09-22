@@ -81,15 +81,15 @@ Quote 5.A
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%209.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%209e.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2010.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2010e.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2011.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2011e.png" width="80%" height="80%">
 </a>
 
 <a>
@@ -97,15 +97,15 @@ Quote 5.A
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2013.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2013e.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2014.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2014e.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2015.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/testing/blob/develop/BDD/01/images/bddcuJava/01/bddcuJava01%20-%2015e.png" width="80%" height="80%">
 </a>
 
 # 02
