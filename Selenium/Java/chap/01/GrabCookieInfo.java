@@ -39,23 +39,24 @@ public class GrabCookieInfo {
      String value = str.nextToken();
      String domain = str.nextToken();
      String path = str.nextToken();
-     Date expiry = null;
+     Date expire = null;
      String dt;
      if (!(dt = str.nextToken()).equals("null")) {
       SimpleDateFormat formatter =
        new SimpleDateFormat("E MMM d HH:mm:ss z yyyy");
-      expiry = formatter.parse(dt);
+      expire = formatter.parse(dt);
      }
 
      boolean isSecure = new Boolean(str.nextToken()).
      booleanValue();
-     Cookie ck = new Cookie(name, value, domain, path, expiry, isSecure);
+     Cookie ck = new Cookie(name, value, domain, path, expire, isSecure);
      driver.manage().addCookie(ck);
     }
    }
 
    driver.get("APP_URL");
-   assertThat(driver.findElement(By.cssSelector("div.page-title")).getText()).isEqualTo("STANCOM");
+   assertThat(driver.findElement(By.cssSelector("div.page-title")).getText()).isEqualTo("STANCOM"); //You shouldn't be doing this, the selectors should be abstracted
+   //using the POM pattern, but you already know this.
 
   } catch (Exception ex) {
    ex.printStackTrace();
