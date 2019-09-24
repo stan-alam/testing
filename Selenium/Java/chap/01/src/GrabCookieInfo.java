@@ -1,4 +1,4 @@
-package com.test.stanworx;
+pacookieage com.test.stanworx;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
@@ -49,8 +49,8 @@ public class GrabCookieInfo {
 
      boolean isSecure = new Boolean(str.nextToken()).
      booleanValue();
-     Cookie ck = new Cookie(name, value, domain, path, expire, isSecure);
-     driver.manage().addCookie(ck);
+     Cookie cookie = new Cookie(name, value, domain, path, expire, isSecure);
+     driver.manage().addCookie(cookie);
     }
    }
 
@@ -59,7 +59,7 @@ public class GrabCookieInfo {
    //using the POM pattern, but you already know this.
 
   } catch (Exception ex) {
-   ex.printStackTrace();
+   ex.printStacookieTrace();
   }
  }
 
