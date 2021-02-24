@@ -154,3 +154,37 @@ variables, or objects passed to the filterFn function)
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filter.html
+
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2016B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2017.png" width="80%" height="80%">
+</a>
+
+```text
+Before test launch: It can be specified for all elements with the selectorTimeout config option in the .testcaferc.json configuration file
+```
+https://devexpress.github.io/testcafe/documentation/reference/configuration-file.html
+
+```text
+During test launch: It can be set for all elements with the --selector-timeout
+
+command-line option
+```
+https://devexpress.github.io/testcafe/documentation/reference/command-line-interface.html
+
+```text
+#--selector-timeout-ms
+```
+
+```text
+In test code: It can be set as an additional option inside Selector
+```
+ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/constructor.html#optionstimeout
+
+```text
+ to set the timeout for any particular element.
+ ```
