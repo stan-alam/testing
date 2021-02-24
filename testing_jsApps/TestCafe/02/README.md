@@ -347,3 +347,20 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontr
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/wait.html)
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2018A.png" width="80%" height="80%">
+</a>
+
+```text
+ .expect(actual).eql(expected[, message][, options]): Verifies that the actual value is equal to the expected value. Here, actual is any type
+of comparison value and expected is any type of expected value
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/eql.html
+```text
+.expect(actual).notEql(expected[, message][, options]):Verifies that the actual value does not equal the expected value. Here, actualis any type of comparison value and expected
+is any type of value that is expected not to be equal to actual
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/noteql.html
