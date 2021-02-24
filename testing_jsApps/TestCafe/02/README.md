@@ -124,3 +124,32 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withexacttext.html
+
+```text
+.withAttribute(attrName[, attrValue]): Selects elements that contain the specified attribute. Here, attrName can be a case-sensitive string
+or a RegExp, and optionally, attrValue can also be a case-sensitive string or a RegExp
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withattribute.html
+
+```text
+
+.filterVisible(): Selects elements that do not have the display:
+none; or visibility: hidden; CSS properties and have non-zero widths and
+heights
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filtervisible.html
+
+```text
+.filterHidden(): Selects elements that have the display: none; or visibility: hidden; CSS properties, or zero widths or heights
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filterhidden.html
+
+```
+
+```text
+.filter(cssSelector): Selects elements that match the CSS selector (the CSS selector should be a string used to filter child elements). Also, instead of the
+cssSelector argument, you could provide filterFn (a function predicate used to filter the elements) and, optionally, dependencies (an object with functions,
+variables, or objects passed to the filterFn function)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filter.html
