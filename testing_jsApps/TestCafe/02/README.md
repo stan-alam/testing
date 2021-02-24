@@ -142,9 +142,10 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/
 
 ```text
 .filterHidden(): Selects elements that have the display: none; or visibility: hidden; CSS properties, or zero widths or heights
-https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filterhidden.html
 
 ```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/filterhidden.html
 
 ```text
 .filter(cssSelector): Selects elements that match the CSS selector (the CSS selector should be a string used to filter child elements). Also, instead of the
