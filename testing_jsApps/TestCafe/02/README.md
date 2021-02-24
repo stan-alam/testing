@@ -270,3 +270,56 @@ file upload input
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/clearupload.html
+
+```text
+.takeScreenshot([options]): Takes a screenshot of the entire page. The
+optional options object can include the following properties: the path string with the screenshot file's relative path and name or a fullPage boolean
+(false by default) that specifies if the full page should be captured, including content that is not visible due to overflow
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/takescreenshot.html
+
+```text
+.takeElementScreenshot(selector[, path][, options]):
+Takes a screenshot of the specified web page element. Here, path (an optional
+argument) is a string with the screenshot file's relative path and name
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/takeelementscreenshot.html
+
+```text
+.switchToIframe(selector): Switches the browsing context of the
+test to the specified <iframe>
+
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/switchtoiframe.html
+
+```text
+.switchToMainWindow(): Switches the browsing context of the test from an
+<iframe> back to the main window
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/switchtomainwindow.html
+
+```text
+
+.setNativeDialogHandler(fn(type, text, url)[, options]):
+Specifies a handler function to deal with native dialogs triggered during the test
+run. Here, fn(type, text, url) can be a function or a client function
+that will be invoked whenever a native dialog is triggered (null to delete the
+native dialog handler). The handler function can utilize three arguments: type,
+which is a string with the type of the native dialog (confirm, alert, prompt,
+or beforeunload); text, which is a string with the dialog message text; and
+url, which is a string with the URL of the page that triggered the dialog (used
+to check whether the dialog was called from the main window or an <iframe>)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/setnativedialoghandler.html
+
+```text
+.getNativeDialogHistory(): Provides a history of the native dialogs
+that were triggered
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/getnativedialoghistory.html
