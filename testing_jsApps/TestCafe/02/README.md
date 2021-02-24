@@ -359,8 +359,52 @@ of comparison value and expected is any type of expected value
 
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/eql.html
 ```text
-.expect(actual).notEql(expected[, message][, options]):Verifies that the actual value does not equal the expected value. Here, actualis any type of comparison value and expected
+.expect(actual).notEql(expected[, message][, options]):Verifies that the actual value does not equal the expected value. Here, actual is any type of comparison value and expected
 is any type of value that is expected not to be equal to actual
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/noteql.html
+
+```text
+.expect(actual).ok([message][, options]): Verifies that the
+actual value is true. Here, actual is any type of value tested in the assertion (the assertion will pass if the actual value is true)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/ok.html
+
+```text
+.expect(actual).notOk([message][, options]): Verifies that the actual value is false. Here, actual is any type of value tested in the assertion
+(the assertion will pass if the actual value is false)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/notok.html
+
+```text
+.expect(actual).contains(expected[, message][, options]):
+Verifies that the actual value contains the expected value. Here, actual is any type of comparison value and expected is any type of expected value (the
+assertion will pass if the actual value contains the expected value)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/contains.html
+
+```text
+.expect(actual).notContains(expected[, message][,
+options]): Verifies that the actual value contains the expected value. Here, actual is any type of comparison value, and expected is any type of expected
+value (the assertion will pass if the actual value does not contain the expected value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/notcontains.html
+
+```text
+.expect(actual).typeOf(typeName[, message][, options]):
+Asserts that the actual value type is typeName. Here, actual is any type of comparison value and typeName is a string of the expected type of an actual value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/typeof.html
+
+```text
+.expect(actual).notTypeOf(typeName[, message][, options]): Asserts that the actual value type is not typeName. Here, actual is any type
+of comparison value and typeName is a string of the type of the actual value that causes an assertion to fail 
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/nottypeof.html
