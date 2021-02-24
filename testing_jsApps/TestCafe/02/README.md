@@ -321,9 +321,11 @@ that were triggered
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/getnativedialoghistory.html
 
 ```text
-
 .resizeWindow(width, height): Resizes a window to fit the provided width and height, where width is the value of the new width (in pixels) and height is
 the value of the new height (in pixels)
+
+```
+
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/resizewindow.html)
 
 ```text
@@ -335,6 +337,8 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontr
 
 ```text
 .maximizeWindow(): Maximizes the browser window
+
+```
 
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/maximizewindow.html
 
