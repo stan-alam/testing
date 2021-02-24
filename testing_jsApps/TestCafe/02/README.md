@@ -121,5 +121,6 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/
 
 ```text
 .withExactText(text): Selects elements whose text content strictly matches the specified text. Here, text is the element's text content the text argument is a case-sensitive string
-https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withexacttext.html
+
 ```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withexacttext.html
