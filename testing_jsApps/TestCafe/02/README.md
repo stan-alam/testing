@@ -404,7 +404,51 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontr
 
 ```text
 .expect(actual).notTypeOf(typeName[, message][, options]): Asserts that the actual value type is not typeName. Here, actual is any type
-of comparison value and typeName is a string of the type of the actual value that causes an assertion to fail 
+of comparison value and typeName is a string of the type of the actual value that causes an assertion to fail
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/nottypeof.html
+
+
+```text
+.expect(actual).gt(expected[, message][, options]): Verifies
+that the actual value is greater than the expected value. Here, actual is the number tested in the assertion (the assertion will pass if the actual value is greater than the expected value)
+and expected is any type of expected value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/gt.html
+
+```text
+.expect(actual).gte(expected[, message][, options]): Verifies
+that the actual value is greater than or equal to the expected value. Here, actual is a number tested in the assertion (the assertion will pass if the actual value is greater than or equal to the expected value), and expected is any type of expected value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/gte.html
+
+```text
+.expect(actual).lt(expected[, message][, options]): Verifies that the actual value is less than the expected value. Here, actual is the
+number tested in the assertion (the assertion will pass if the actual value is less than the expected value) and expected is any type of expected value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/lt.html
+
+```text
+.expect(actual).lte(expected[, message][, options]): Verifies that the actual value is less than or equal to the expected value. Here, actual is the number tested in the assertion (the assertion will pass if the actual value is less than or equal to the expected value) and expected is any type of expected value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/lte.html
+
+```text
+.expect(actual).within(start, finish[, message][, options]): Verifies that the actual value is within a specified range from
+start to finish (bounds are inclusive). Here, actual is a number, start is the number for the lower range (inclusive), and finish is the number for the upper range (inclusive)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/within.html
+
+```text
+.expect(actual).notWithin(start, finish[, message][, options]): Verifies that the actual value is not within the specified range
+from start to finish (bounds are inclusive). Here, actual is a number, start is the number for the lower range (inclusive), and finish is the number for the
+upper range (inclusive)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/notwithin.html
