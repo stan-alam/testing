@@ -160,9 +160,6 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/
   <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2016B.png" width="80%" height="80%">
 </a>
 
-<a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2017.png" width="80%" height="80%">
-</a>
 
 ```text
 Before test launch: It can be specified for all elements with the selectorTimeout config option in the .testcaferc.json configuration file
@@ -188,3 +185,45 @@ In test code: It can be set as an additional option inside Selector
 ```text
  to set the timeout for any particular element.
  ```
+
+ <a>
+   <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2017.png" width="80%" height="80%">
+ </a>
+
+
+```text
+.click(selector[, options]): Clicks on an element on a page
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/click.html)
+
+```text
+.doubleClick(selector[, options]): Double-clicks on an element on a page
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/doubleclick.html)
+
+```text
+.rightClick(selector[, options]): Right-clicks on an element on a page
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/rightclick.html)
+
+```text
+.pressKey(keys[, options]): Presses the specified keyboard keys. Here, keys is a sequence of keys and key combinations to be pressed
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/presskey.html)
+
+```text
+.navigateTo(url): Navigates to the specified URL. Here, url is a string with the URL to navigate to (which can be absolute or relative to the current page
+
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/navigateto.html
+
+```text
+.typeText(selector, text[, options]): Types the specified text into an input element. Here, text is a string of the text to be typed into the specified web page element
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/typetext.html
