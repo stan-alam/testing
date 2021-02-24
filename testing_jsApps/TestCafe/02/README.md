@@ -65,33 +65,40 @@
 </a>
 
 ```text
-• .find(cssSelector): Finds the descendant nodes of all the nodes in the
+
+.find(cssSelector): Finds the descendant nodes of all the nodes in the
 matched set and uses a CSS selector to filter them (the CSS selector should be a
-string) (https://devexpress.github.io/testcafe/documentation/
-reference/test-api/selector/find.html).
+string)
+```
 
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/find.html
 
-• .parent(index): Finds the parents of all the nodes in the matched set (the first
-element in the set is the closest parent) (https://devexpress.github.io/
-testcafe/documentation/reference/test-api/selector/parent.
-html).
+```text
+.parent(index): Finds the parents of all the nodes in the matched set (the first
+element in the set is the closest parent)
+```
 
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/parent.html
+
+```text
 .child(index): Finds the child elements of all nodes in the matched set
-(https://devexpress.github.io/testcafe/documentation/
-reference/test-api/selector/child.html).
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/child.html
 
-• .sibling(index): Finds the sibling elements of all the nodes in the matched
-set (https://devexpress.github.io/testcafe/documentation/
-reference/test-api/selector/sibling.html).
 
-• .nextSibling(index): Finds the succeeding sibling elements of all the
-nodes in the matched set (https://devexpress.github.io/testcafe/
-documentation/reference/test-api/selector/nextsibling.
-html).
+```text
+.sibling(index): Finds the sibling elements of all the nodes in the matched set
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/sibling.html
 
-• .prevSibling(index): Finds the preceding sibling elements of all nodes in
-the matched set and filters them by index (https://devexpress.github.
-io/testcafe/documentation/reference/test-api/selector/
-prevsibling.html)
+```text
+.nextSibling(index): Finds the succeeding sibling elements of all the nodes in the matched set
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/nextsibling.html
+
+```text
+.prevSibling(index): Finds the preceding sibling elements of all nodes in the matched set and filters them by index
 
 ```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/prevsibling.html
