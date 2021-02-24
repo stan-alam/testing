@@ -60,10 +60,6 @@
   <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2015.png" width="80%" height="80%">
 </a>
 
-<a>
-  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2016A.png" width="80%" height="80%">
-</a>
-
 ```text
 
 .find(cssSelector): Finds the descendant nodes of all the nodes in the
@@ -102,3 +98,28 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/prevsibling.html
+
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2016A.png" width="80%" height="80%">
+</a>
+
+```text
+
+.nth(index): Selects an element with the specified index in the matched set.
+Here, the index argument should be a zero-based number (0 will be the closest relative element in the set). If it is negative, the index is counted from the end of the matched set
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/nth.html
+
+```text
+
+.withText(text): Selects elements that contain the specified text. Here, text is the element's text content the text argument is a case-sensitive string or a regular expression (RegExp) that should match the element's text
+
+```
+ https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withtext.html)
+
+```text
+.withExactText(text): Selects elements whose text content strictly matches the specified text. Here, text is the element's text content the text argument is a case-sensitive string
+https://devexpress.github.io/testcafe/documentation/reference/test-api/selector/withexacttext.html
+```
