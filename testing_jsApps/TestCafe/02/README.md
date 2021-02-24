@@ -452,3 +452,16 @@ upper range (inclusive)
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/notwithin.html
+
+```text
+.expect(actual).match(re[, message][, options]): Verifies that the actual value matches the re regular expression. Here, actual is any type of comparison value and re is a regular expression that is expected to match the actual value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/match.html
+
+```text
+.expect(actual).notMatch(re[, message][, options]): Verifies
+that the actual value does not match the re regular expression. Here, actual is any type of comparison value and re is a regular expression that is expected not to match the actual value
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/expect/notmatch.html
