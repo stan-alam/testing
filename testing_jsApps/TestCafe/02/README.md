@@ -305,14 +305,10 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontr
 ```text
 
 .setNativeDialogHandler(fn(type, text, url)[, options]):
-Specifies a handler function to deal with native dialogs triggered during the test
-run. Here, fn(type, text, url) can be a function or a client function
-that will be invoked whenever a native dialog is triggered (null to delete the
-native dialog handler). The handler function can utilize three arguments: type,
-which is a string with the type of the native dialog (confirm, alert, prompt,
-or beforeunload); text, which is a string with the dialog message text; and
-url, which is a string with the URL of the page that triggered the dialog (used
-to check whether the dialog was called from the main window or an <iframe>)
+Specifies a handler function to deal with native dialogs triggered during the test run. Here, fn(type, text, url) can be a function or a client function
+that will be invoked whenever a native dialog is triggered (null to delete the native dialog handler). The handler function can utilize three arguments: type,
+which is a string with the type of the native dialog (confirm, alert, prompt, or beforeunload); text, which is a string with the dialog message text; and
+url, which is a string with the URL of the page that triggered the dialog (used to check whether the dialog was called from the main window or an <iframe>)
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/setnativedialoghandler.html
@@ -323,3 +319,27 @@ that were triggered
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/getnativedialoghistory.html
+
+```text
+
+.resizeWindow(width, height): Resizes a window to fit the provided width and height, where width is the value of the new width (in pixels) and height is
+the value of the new height (in pixels)
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/resizewindow.html)
+
+```text
+.resizeWindowToFitDevice(deviceName[, options]): Resizes the
+window to fit the screen of the specified mobile device, where deviceName is a string with the device name
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/resizewindowtofitdevice.html)
+
+```text
+.maximizeWindow(): Maximizes the browser window
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/maximizewindow.html
+
+```text  
+.wait(timeout): Pauses a test execution for a specified period of time. Here, timeout is the length of the pause duration (in milliseconds)
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/wait.html)
