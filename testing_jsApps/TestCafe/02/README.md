@@ -227,3 +227,46 @@ https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontr
 
 ```
 https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/typetext.html
+
+```text
+.selectText(selector[, startPos][, endPos][, options]): Selects text in input elements of various types. Here, startPos is the number (zero-based integer, 0 by default) of the start position of the selection. Optionally,
+endPos is the number (zero-based integer; by default, it is equal to the length of the visible text content) of the end position of the selection
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/selecttext.html
+
+```text
+.hover(selector[, options]): Hovers the mouse pointer over a web page element
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/hover.html
+
+```text
+.drag(selector, dragOffsetX, dragOffsetY[, options]): Dragsan element to a specified offset. Here, dragOffsetX is the number of pixels for
+the X offset (horizontal) of the drop coordinates from the original position of the mouse pointer, and dragOffsetY is the number of pixels for the Y offset (vertical) of the drop coordinates from the original position of the mouse pointer
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/drag.html
+
+```text
+.dragToElement(selector, destinationSelector[, options]): Drags an element onto another web page element. Here, destinationSelector
+should identify the web page element that will be the drop location
+
+```
+
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/dragtoelement.html
+
+```text
+.setFilesToUpload(selector, filePath): Adds file paths to the specified file upload input. Here, filePath is a string or an array with the path
+to the uploaded file (or several paths, in the case of an array). Relative paths
+are resolved against the folder with the test file
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/setfilestoupload.html
+
+```text
+.clearUpload(selector): Deletes all the file paths from the specified
+file upload input
+
+```
+https://devexpress.github.io/testcafe/documentation/reference/test-api/testcontroller/clearupload.html
