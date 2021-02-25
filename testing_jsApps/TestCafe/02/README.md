@@ -602,3 +602,43 @@ Insert Methods
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2019B.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2020.png" width="80%" height="80%">
+</a>
+
+```js
+const { Role, Selector } = require('testcafe');
+
+const serviceProvider = Role('https://nannerl.io', async
+  (t) => {
+    await t.typeText('.login', 'service_provider123')
+        .typeTest('.password', 'blink one hundred and eighty two')
+        .click('#log-in'); //note the selector jquery like in Selenide wrapper API for Selenium
+  });
+
+  const admin = Role('https://nannerl.io', async
+    (t) => {
+      await t.typeText('.login', 'admin')
+          .typeTest('.password', 'adminpassword123')
+          .click('#log-in');
+    });
+
+const linkLoggedInServiceProvider = Selector('.link-service-provider');
+const linkLoggedInAdmin           = Selector('.link-admin');
+
+fixture('Inital Test Fixture').page('https://nannerl.io');
+
+test('Test Login with Three Roles, Admin, Service Provider, Subscriber', async (t) => {
+  await t.useRole(serviceProvider) //useRole method
+      .expect(linkLoggedInServiceProvider.exists).ok() //positive test
+      .useRole(admin)
+      .expectRole(admin)
+      .expect(linkLoggedInServiceProvider.exists.notOk() //negative test, check to see that you are NOT logged in as serviceProvider
+      .expect(linkLoggedInAdmin.exists.ok() //positive test, check that you're logged in as admin
+      .useRole(Role.Subscriber())
+      .expect(linkLoggedInServiceProvider.exists).notOk()
+      .expect(linkLoggedInAdmin.exists).notOk()
+
+)};
+```
