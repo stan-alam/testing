@@ -648,9 +648,6 @@ test('Test Login with Three Roles, Admin, Service Provider, Subscriber', async (
 
 )};
 ```
-```
-
-
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/testing_jsApps/TestCafe/02/images/testCafe02%20-%20page%2021B.png" width="80%" height="80%">
 </a>
