@@ -71,3 +71,27 @@
 <a>
   <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2018.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2020.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2021.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/testing/blob/develop/testAPI/images/01/testWEBapi01%20-%20page%2024.png" width="80%" height="80%">
+</a>
