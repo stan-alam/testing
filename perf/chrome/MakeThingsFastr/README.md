@@ -1,0 +1,1 @@
+## notes on 'How to Make Things Faster: Lessons in Performance from Technology and Everyday Life'
