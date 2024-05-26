@@ -1,2 +1,5 @@
 /BDD/java/jars/
 *.jar
+/BDD/java/stancom
+/BDD/java/.metadata
+/BDD/java/.project
